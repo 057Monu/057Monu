@@ -1,7 +1,7 @@
 # Hi there <img src="wave.gif" width="45px">
 
 
-My name is 057Monu and I'm a currently a student. I'm from India, living in Delhi.
+My name is 057Monu and I'm a currently a student. I'm from India.
 
 - 🔭 I’m currently working on SpringBoot MVC and Laravel
 <!-- - ⚡ Fun fact: I love to play chess -->
